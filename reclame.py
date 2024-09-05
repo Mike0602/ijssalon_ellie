@@ -8,7 +8,7 @@ def aanbieding_1(smaak, prijs, korting):
 
     return resultaat
 
-print(aanbieding_1("aardbei", 4, 0.1))
+print(aanbieding_1("aardbei", 4, 0.goo1))
 
 def inkomsten_totaal(inkomsten, btw):
     totaal = sum(inkomsten)
